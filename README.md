@@ -8,3 +8,6 @@
 - Pilhas;
 - Hash Maps;
 - Árvores.
+
+## O desafio
+Este desafio é feito pela plataforma Alura e todos os dias são enviados desafios sobre Estrutura de Dados.
