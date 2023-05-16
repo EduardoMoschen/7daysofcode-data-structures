@@ -10,4 +10,4 @@
 - Árvores.
 
 ## O desafio
-Este desafio é feito pela plataforma Alura e todos os dias são enviados desafios sobre Estrutura de Dados.
+Este desafio é feito pela plataforma Alura e, durante 7 dias, são enviados desafios sobre Estrutura de Dados.
